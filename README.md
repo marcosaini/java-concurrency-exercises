@@ -1,2 +1,9 @@
 # java-concurrency-exercises
-Java multithreading exercises with threads, synchronization, and executor services
+
+A collection of practical exercises to learn and master concurrency in Java.
+Each folder contains focused exercises with code and explanations.
+
+## Contents
+- **basic-threads/** – Basic thread exercises
+- **synchronization/** – Synchronization, race conditions, implicit locks
+- **wait-notify/** – Thread communication using wait/notify
