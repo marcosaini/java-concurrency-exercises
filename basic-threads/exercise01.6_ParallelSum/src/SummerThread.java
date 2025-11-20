@@ -12,7 +12,7 @@ public class SummerThread extends Thread {
     }
 
     public void run() {
-        for (int i=0; i<10; i++){
+        for (int i = 0; i < 10; i++) {
             partialSums[index] += numbers[index * 10 + i];
         }
         System.out.println("Partial sum " + index + ": " + partialSums[index]);
